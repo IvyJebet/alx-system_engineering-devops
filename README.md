@@ -1,1 +1,1 @@
-Shell (System Engineering-devops) basics
+Shell, init files, variables and expansions
